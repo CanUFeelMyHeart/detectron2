@@ -259,3 +259,8 @@ See
   which has step-by-step instructions.
 
 * __Docker__: The official [Dockerfile](docker) installs detectron2 with a few simple commands.
+
+
+
+# Домашняя задания
+## Тарон Погосян
